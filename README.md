@@ -1,1 +1,3 @@
-# gae_keras_predict
+# GoogleAppEngineで、kerasを動作させた
+
+詳細は、以下。
